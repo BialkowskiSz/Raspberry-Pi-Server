@@ -1,0 +1,6 @@
+[submodule "main/Welcome"]
+	path = main/Welcome
+	url = https://github.com/BialkowskiSz/Server-Homepage
+[submodule "main/MovieGenerator"]
+	path = main/MovieGenerator
+	url = https://github.com/BialkowskiSz/Random-Movie-Generator
